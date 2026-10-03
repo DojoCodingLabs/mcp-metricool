@@ -1,6 +1,22 @@
+<p align="center">
+  <a href="https://dojocoding.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg">
+      <img alt="mcp-metricool by Dojo Coding: Scheduling and analytics via Metricool" src="docs/assets/banner-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
 # mcp-metricool
 
+**An MCP server for builders who want to schedule posts, check analytics and find the best posting times in Metricool from an MCP client.**
+
 MCP server for [Metricool](https://metricool.com) — schedule social media posts, get analytics, and find optimal posting times.
+
+[![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-FF7151?labelColor=201E3D)](package.json) [![Node.js 18+](https://img.shields.io/badge/Node.js-18%2B-201E3D?labelColor=201E3D)](https://nodejs.org)
+
+[Get started](#setup) · [Tools](#tools) · [Environment variables](#environment-variables) · [Report an issue](https://github.com/DojoCodingLabs/mcp-metricool/issues/new)
 
 ## Tools
 
@@ -51,4 +67,8 @@ LinkedIn, Twitter/X, Facebook, Instagram, YouTube, TikTok, Threads, Bluesky — 
 
 ## License
 
-MIT
+MIT. Built by [Dojo Coding](https://dojocoding.io).
+
+<p align="center">
+  <a href="https://dojocoding.io"><img src="docs/assets/dojocoding-mark.png" alt="Dojo Coding" width="48"></a>
+</p>

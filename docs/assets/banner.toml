@@ -1,0 +1,11 @@
+name = "mcp-metricool"
+tagline = "Scheduling and analytics via [Metricool]"
+chips = ["5 tools / stdio"]
+meta = "Open source · TypeScript"
+tile = "{ }"
+
+[card]
+kind = "tools"
+label = "MCP server"
+status = "v1.0.0"
+tools = ["metricool_get_brands", "metricool_schedule_post", "metricool_get_analytics", "metricool_get_best_time"]
